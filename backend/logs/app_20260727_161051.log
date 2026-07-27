@@ -47,3 +47,4 @@
 2026-07-27 16:10:53,945 - services.mock_data - INFO - Ignore initialize data
 2026-07-27 16:10:53,945 - services.auth - INFO - Ignore initialize admin
 2026-07-27 16:10:53,945 - main - INFO - === Application startup completed successfully ===
+2026-07-27 16:22:47,183 - services.database - INFO - Database connections closed
