@@ -1,0 +1,82 @@
+{
+    "title": "plans",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "name_ar": {
+            "type": "string",
+            "description": "Plan name in Arabic"
+        },
+        "name_en": {
+            "type": "string",
+            "description": "Plan name in English"
+        },
+        "description_ar": {
+            "type": "string",
+            "description": "Plan description in Arabic"
+        },
+        "description_en": {
+            "type": "string",
+            "description": "Plan description in English"
+        },
+        "price_monthly": {
+            "type": "number",
+            "description": "Monthly price in SAR"
+        },
+        "price_yearly": {
+            "type": "number",
+            "description": "Yearly price in SAR"
+        },
+        "price_lifetime": {
+            "type": "number",
+            "description": "Lifetime price in SAR, 0 if not available"
+        },
+        "billing_type": {
+            "type": "string",
+            "description": "Billing type: monthly, yearly, lifetime, trial"
+        },
+        "features": {
+            "type": "string",
+            "description": "JSON array of features"
+        },
+        "limits": {
+            "type": "string",
+            "description": "JSON object of limits like max_questions, max_contracts etc"
+        },
+        "trial_days": {
+            "type": "integer",
+            "description": "Number of trial days, 0 if no trial"
+        },
+        "status": {
+            "type": "string",
+            "description": "Plan status: active, hidden, draft"
+        },
+        "is_recommended": {
+            "type": "boolean",
+            "description": "Whether this is the recommended plan"
+        },
+        "sort_order": {
+            "type": "integer",
+            "description": "Display order"
+        },
+        "color": {
+            "type": "string",
+            "description": "Plan card color gradient"
+        },
+        "icon": {
+            "type": "string",
+            "description": "Plan icon name"
+        }
+    },
+    "required": [
+        "id",
+        "name_ar",
+        "name_en",
+        "price_monthly",
+        "status",
+        "sort_order"
+    ]
+}

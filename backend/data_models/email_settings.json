@@ -1,0 +1,48 @@
+{
+    "title": "email_settings",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "smtp_host": {
+            "type": "string",
+            "description": "SMTP server host"
+        },
+        "smtp_port": {
+            "type": "integer",
+            "description": "SMTP port"
+        },
+        "smtp_user": {
+            "type": "string",
+            "description": "SMTP username"
+        },
+        "smtp_password": {
+            "type": "string",
+            "description": "SMTP password"
+        },
+        "from_name": {
+            "type": "string",
+            "description": "Sender display name"
+        },
+        "from_email": {
+            "type": "string",
+            "description": "Sender email address"
+        },
+        "is_active": {
+            "type": "boolean",
+            "description": "Whether email sending is active"
+        },
+        "use_tls": {
+            "type": "boolean",
+            "description": "Whether to use TLS"
+        }
+    },
+    "required": [
+        "id",
+        "smtp_host",
+        "smtp_port",
+        "smtp_user"
+    ]
+}

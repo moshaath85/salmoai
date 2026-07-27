@@ -1,0 +1,51 @@
+{
+    "title": "webhook_events",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "gateway_name": {
+            "type": "string",
+            "description": "Source gateway"
+        },
+        "event_type": {
+            "type": "string",
+            "description": "Event type like payment.completed, payment.failed"
+        },
+        "payload": {
+            "type": "string",
+            "description": "JSON payload of the webhook"
+        },
+        "status": {
+            "type": "string",
+            "description": "processing, success, failed"
+        },
+        "retry_count": {
+            "type": "integer",
+            "description": "Number of retry attempts"
+        },
+        "max_retries": {
+            "type": "integer",
+            "description": "Maximum retry attempts allowed"
+        },
+        "error_message": {
+            "type": "string",
+            "description": "Error message if failed"
+        },
+        "signature_valid": {
+            "type": "boolean",
+            "description": "Whether signature validation passed"
+        },
+        "processed_at": {
+            "type": "string",
+            "description": "When the event was processed"
+        }
+    },
+    "required": [
+        "id",
+        "gateway_name",
+        "event_type"
+    ]
+}

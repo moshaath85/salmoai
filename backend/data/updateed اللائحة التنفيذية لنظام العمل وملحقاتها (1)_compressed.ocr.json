@@ -1,0 +1,19 @@
+{
+  "file_path": "/workspace/uploads/updateed اللائحة التنفيذية لنظام العمل وملحقاتها (1)_compressed.docx",
+  "markdown_path": "/workspace/app/backend/data/updateed اللائحة التنفيذية لنظام العمل وملحقاتها (1)_compressed.md",
+  "ocr_enabled": true,
+  "ocr_limit": 20,
+  "image_count": 1,
+  "ocr_processed_count": 1,
+  "ocr_skipped_count": 0,
+  "images": [
+    {
+      "index": 0,
+      "image_path": "/workspace/app/backend/data/updateed اللائحة التنفيذية لنظام العمل وملحقاتها (1)_compressed_assets/img_0.png",
+      "caption": "",
+      "ocr_result": "الموارد البشرية\nوالتنمية الاجتماعية",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    }
+  ]
+}

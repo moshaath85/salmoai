@@ -1,0 +1,47 @@
+[
+    {
+        "ticket_number": "TKT-1001",
+        "subject": "مشكلة في تسجيل الدخول",
+        "customer_name": "أحمد محمد العتيبي",
+        "customer_email": "ahmed@example.com",
+        "category": "تقني",
+        "status": "new",
+        "priority": "high"
+    },
+    {
+        "ticket_number": "TKT-1002",
+        "subject": "استفسار عن الباقات",
+        "customer_name": "سارة خالد الشمري",
+        "customer_email": "sara@example.com",
+        "category": "مبيعات",
+        "status": "in_progress",
+        "priority": "medium"
+    },
+    {
+        "ticket_number": "TKT-1003",
+        "subject": "طلب ترقية الاشتراك",
+        "customer_name": "محمد عبدالله القحطاني",
+        "customer_email": "mohammed@example.com",
+        "category": "اشتراكات",
+        "status": "closed",
+        "priority": "low"
+    },
+    {
+        "ticket_number": "TKT-1004",
+        "subject": "خطأ في تحليل السيرة الذاتية",
+        "customer_name": "نورة سعد المالكي",
+        "customer_email": "noura@example.com",
+        "category": "تقني",
+        "status": "new",
+        "priority": "high"
+    },
+    {
+        "ticket_number": "TKT-1005",
+        "subject": "طلب استرداد مبلغ",
+        "customer_name": "فاطمة أحمد الدوسري",
+        "customer_email": "fatima@example.com",
+        "category": "مالي",
+        "status": "in_progress",
+        "priority": "medium"
+    }
+]

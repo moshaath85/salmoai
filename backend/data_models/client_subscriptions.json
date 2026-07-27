@@ -1,0 +1,44 @@
+{
+    "title": "client_subscriptions",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User ID"
+        },
+        "client_id": {
+            "type": "integer",
+            "description": "Reference to clients table"
+        },
+        "package_id": {
+            "type": "integer",
+            "description": "Reference to packages table"
+        },
+        "status": {
+            "type": "string",
+            "description": "Subscription status: active, expired, cancelled"
+        },
+        "payment_status": {
+            "type": "string",
+            "description": "Payment status: paid, pending, failed"
+        },
+        "start_date": {
+            "type": "string",
+            "description": "Subscription start date"
+        },
+        "end_date": {
+            "type": "string",
+            "description": "Subscription end date"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "client_id",
+        "package_id"
+    ]
+}

@@ -1,0 +1,15 @@
+.git
+node_modules
+.next
+dist
+build
+coverage
+.cache
+__pycache__
+.venv
+logs
+.env
+.env.*
+*.pem
+*.key
+backend/tools/atoms-project-recovery

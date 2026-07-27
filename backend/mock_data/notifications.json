@@ -1,0 +1,44 @@
+[
+    {
+        "type": "new_customer",
+        "title": "عميل جديد",
+        "message": "تم تسجيل عميل جديد: خالد العمري في باقة أساسي",
+        "is_read": false,
+        "target_user_id": ""
+    },
+    {
+        "type": "payment",
+        "title": "دفعة مستلمة",
+        "message": "تم استلام دفعة 299 ريال من أحمد محمد العتيبي",
+        "is_read": false,
+        "target_user_id": ""
+    },
+    {
+        "type": "ticket",
+        "title": "تذكرة جديدة",
+        "message": "تذكرة دعم جديدة TKT-1004 بأولوية عالية من نورة المالكي",
+        "is_read": false,
+        "target_user_id": ""
+    },
+    {
+        "type": "alert",
+        "title": "تنبيه دفع متأخر",
+        "message": "فاطمة الدوسري لديها دفعة متأخرة منذ 15 يوم",
+        "is_read": true,
+        "target_user_id": ""
+    },
+    {
+        "type": "subscription",
+        "title": "انتهاء اشتراك",
+        "message": "اشتراك ريم الحربي سينتهي خلال 3 أيام",
+        "is_read": false,
+        "target_user_id": ""
+    },
+    {
+        "type": "payment",
+        "title": "دفعة مستلمة",
+        "message": "تم استلام دفعة 499 ريال من عبدالرحمن الغامدي",
+        "is_read": true,
+        "target_user_id": ""
+    }
+]

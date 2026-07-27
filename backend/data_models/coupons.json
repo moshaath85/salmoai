@@ -1,0 +1,88 @@
+{
+    "title": "coupons",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "code": {
+            "type": "string",
+            "description": "Coupon code"
+        },
+        "discount": {
+            "type": "string",
+            "description": "Discount value"
+        },
+        "discount_type": {
+            "type": "string",
+            "description": "Type of discount: percentage, fixed, free_trial, time_limited"
+        },
+        "coupon_type": {
+            "type": "string",
+            "description": "Type of coupon: general, first_purchase, referral, seasonal"
+        },
+        "applicable_plans": {
+            "type": "string",
+            "description": "JSON array of applicable plan IDs"
+        },
+        "applicable_cycles": {
+            "type": "string",
+            "description": "JSON array of applicable billing cycles"
+        },
+        "usage_count": {
+            "type": "integer",
+            "description": "Current usage count"
+        },
+        "max_uses": {
+            "type": "integer",
+            "description": "Maximum number of uses allowed"
+        },
+        "max_uses_per_user": {
+            "type": "integer",
+            "description": "Maximum uses per user"
+        },
+        "min_amount": {
+            "type": "number",
+            "description": "Minimum order amount required"
+        },
+        "max_discount_amount": {
+            "type": "number",
+            "description": "Maximum discount amount cap"
+        },
+        "trial_days": {
+            "type": "integer",
+            "description": "Number of trial days for free_trial type"
+        },
+        "expires_at": {
+            "type": "string",
+            "description": "Expiry date string YYYY-MM-DD"
+        },
+        "starts_at": {
+            "type": "string",
+            "description": "Start date string YYYY-MM-DD"
+        },
+        "is_active": {
+            "type": "boolean",
+            "description": "Whether coupon is active"
+        },
+        "stackable": {
+            "type": "boolean",
+            "description": "Whether coupon can be stacked with others"
+        },
+        "description_ar": {
+            "type": "string",
+            "description": "Arabic description"
+        },
+        "description_en": {
+            "type": "string",
+            "description": "English description"
+        }
+    },
+    "required": [
+        "id",
+        "code",
+        "discount",
+        "discount_type"
+    ]
+}

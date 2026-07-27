@@ -1,0 +1,9 @@
+# Force HTTPS
+http://salmoai.com/* https://salmoai.com/:splat 301!
+http://www.salmoai.com/* https://www.salmoai.com/:splat 301!
+
+# Redirect www to non-www (canonical domain)
+https://www.salmoai.com/* https://salmoai.com/:splat 301!
+
+# SPA fallback - serve index.html for all routes
+/* /index.html 200

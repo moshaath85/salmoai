@@ -1,0 +1,35 @@
+{
+    "title": "notifications",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "type": {
+            "type": "string",
+            "description": "Notification type: new_customer, payment, ticket, alert, subscription"
+        },
+        "title": {
+            "type": "string",
+            "description": "Notification title"
+        },
+        "message": {
+            "type": "string",
+            "description": "Notification message"
+        },
+        "is_read": {
+            "type": "boolean",
+            "description": "Whether notification is read"
+        },
+        "target_user_id": {
+            "type": "string",
+            "description": "Target user ID"
+        }
+    },
+    "required": [
+        "id",
+        "title",
+        "message"
+    ]
+}
