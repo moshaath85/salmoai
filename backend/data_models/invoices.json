@@ -1,0 +1,39 @@
+{
+    "title": "invoices",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "invoice_number": {
+            "type": "string",
+            "description": "Invoice reference number"
+        },
+        "customer_name": {
+            "type": "string",
+            "description": "Customer name"
+        },
+        "plan": {
+            "type": "string",
+            "description": "Plan name"
+        },
+        "amount": {
+            "type": "number",
+            "description": "Invoice amount in SAR"
+        },
+        "date": {
+            "type": "string",
+            "description": "Invoice date"
+        },
+        "status": {
+            "type": "string",
+            "description": "Invoice status: paid, pending, overdue"
+        }
+    },
+    "required": [
+        "id",
+        "invoice_number",
+        "amount"
+    ]
+}

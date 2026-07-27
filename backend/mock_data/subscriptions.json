@@ -1,0 +1,26 @@
+[
+    {
+        "plan_name": "أساسي",
+        "plan_name_en": "Basic",
+        "price": 99,
+        "features": "بحث قانوني أساسي,5 استشارات شهرياً,دعم بريد إلكتروني",
+        "color": "from-blue-500 to-blue-600",
+        "subscribers_count": 45
+    },
+    {
+        "plan_name": "احترافي",
+        "plan_name_en": "Professional",
+        "price": 299,
+        "features": "بحث قانوني متقدم,20 استشارة شهرياً,تحليل عقود,دعم أولوية",
+        "color": "from-purple-500 to-purple-600",
+        "subscribers_count": 78
+    },
+    {
+        "plan_name": "مؤسسي",
+        "plan_name_en": "Enterprise",
+        "price": 499,
+        "features": "بحث قانوني غير محدود,استشارات غير محدودة,API كامل,مدير حساب مخصص,تقارير مخصصة",
+        "color": "from-amber-500 to-amber-600",
+        "subscribers_count": 23
+    }
+]

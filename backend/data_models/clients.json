@@ -1,0 +1,38 @@
+{
+    "title": "clients",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "company_name": {
+            "type": "string",
+            "description": "Company name"
+        },
+        "owner_name": {
+            "type": "string",
+            "description": "Owner full name"
+        },
+        "email": {
+            "type": "string",
+            "description": "Contact email"
+        },
+        "mobile": {
+            "type": "string",
+            "description": "Mobile number"
+        },
+        "status": {
+            "type": "string",
+            "description": "Client status: pending_payment, active, suspended",
+            "default": "pending_payment"
+        }
+    },
+    "required": [
+        "id",
+        "company_name",
+        "owner_name",
+        "email",
+        "mobile"
+    ]
+}

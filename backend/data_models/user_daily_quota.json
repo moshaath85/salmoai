@@ -1,0 +1,35 @@
+{
+    "title": "user_daily_quota",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User ID"
+        },
+        "quota_date": {
+            "type": "string",
+            "description": "Date string YYYY-MM-DD"
+        },
+        "question_count": {
+            "type": "integer",
+            "description": "Number of questions asked today",
+            "default": 0
+        },
+        "plan": {
+            "type": "string",
+            "description": "Plan type",
+            "default": "unlimited"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "quota_date",
+        "question_count",
+        "plan"
+    ]
+}

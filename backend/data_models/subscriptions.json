@@ -1,0 +1,39 @@
+{
+    "title": "subscriptions",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "plan_name": {
+            "type": "string",
+            "description": "Plan name in Arabic"
+        },
+        "plan_name_en": {
+            "type": "string",
+            "description": "Plan name in English"
+        },
+        "price": {
+            "type": "number",
+            "description": "Monthly price in SAR"
+        },
+        "features": {
+            "type": "string",
+            "description": "Comma-separated features"
+        },
+        "color": {
+            "type": "string",
+            "description": "Gradient color class"
+        },
+        "subscribers_count": {
+            "type": "integer",
+            "description": "Number of subscribers"
+        }
+    },
+    "required": [
+        "id",
+        "plan_name",
+        "price"
+    ]
+}

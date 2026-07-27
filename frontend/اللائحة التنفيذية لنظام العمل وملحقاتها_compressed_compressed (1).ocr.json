@@ -1,0 +1,990 @@
+{
+  "file_path": "/workspace/uploads/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1).docx",
+  "markdown_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1).md",
+  "ocr_enabled": true,
+  "ocr_limit": 20,
+  "image_count": 122,
+  "ocr_processed_count": 20,
+  "ocr_skipped_count": 102,
+  "images": [
+    {
+      "index": 0,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_0.png",
+      "caption": "",
+      "ocr_result": "The provided image is a solid dark color and does not contain any text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 1,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_1.png",
+      "caption": "",
+      "ocr_result": "الغياب المتصل دون إذن كتابي ، أو عذر مقبول من يومين\nإلى ستة أيام ، خلال السنة العقدية الواحدة .",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 2,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_2.png",
+      "caption": "",
+      "ocr_result": "The provided image is a solid dark blue bar and does not contain any legible text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 3,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_3.png",
+      "caption": "",
+      "ocr_result": "The provided image does not contain any text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 4,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_4.png",
+      "caption": "",
+      "ocr_result": "The provided image is a solid dark blue rectangle and does not contain any text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 5,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_5.png",
+      "caption": "",
+      "ocr_result": "No text is visible in the provided image. It appears to be a solid black strip.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 6,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_6.png",
+      "caption": "",
+      "ocr_result": "No legible text was found in the image. It appears to be a solid black strip.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 7,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_7.png",
+      "caption": "",
+      "ocr_result": "KOKKEI-BANASHI [unclear]",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 8,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_8.png",
+      "caption": "",
+      "ocr_result": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 9,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_9.png",
+      "caption": "",
+      "ocr_result": "No clearly legible text was found in the image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 10,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_10.png",
+      "caption": "",
+      "ocr_result": "THE WORLD BANK",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 11,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_11.png",
+      "caption": "",
+      "ocr_result": "S.B. 177, AS AMENDED BY THE SENATE",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 12,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_12.png",
+      "caption": "",
+      "ocr_result": "يستحق الطرف الثاني عن كل عام، إجازة سنوية مدتها (......) يوماً مدفوعة الأجر وفقاً",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 13,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_13.png",
+      "caption": "",
+      "ocr_result": "No clearly legible text was found in the provided image. It appears to be a solid black horizontal bar.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 14,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_14.png",
+      "caption": "",
+      "ocr_result": "FOR ADULTS AND CHILDREN OVER 12 YEARS OF AGE: Two capsules (one dose) every 1/2 to 1 hour or four capsules (two doses) every hour as needed for relief. Do not exceed 16 capsules (8 doses) in 24 hours. Use until diarrhea stops but not more than 2 days.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 15,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_15.png",
+      "caption": "",
+      "ocr_result": "I am sorry, but there is no legible text in the provided image. It appears to be a solid black rectangular strip.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 16,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_16.png",
+      "caption": "",
+      "ocr_result": "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 17,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_17.png",
+      "caption": "",
+      "ocr_result": "A. J. C. PRADA, A. CASSONE, G. J. M. SCHUT and T. R. G. MONTEIRO",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 18,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_18.png",
+      "caption": "",
+      "ocr_result": "No legible text was found in the image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 19,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_19.png",
+      "caption": "",
+      "ocr_result": "No clearly legible text was found in the image. The image appears to be a solid black strip.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 20,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_20.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 21,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_21.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 22,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_22.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 23,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_23.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 24,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_24.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 25,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_25.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 26,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_26.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 27,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_27.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 28,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_28.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 29,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_29.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 30,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_30.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 31,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_31.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 32,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_32.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 33,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_33.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 34,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_34.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 35,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_35.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 36,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_36.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 37,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_37.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 38,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_38.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 39,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_39.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 40,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_40.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 41,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_41.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 42,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_42.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 43,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_43.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 44,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_44.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 45,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_45.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 46,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_46.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 47,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_47.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 48,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_48.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 49,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_49.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 50,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_50.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 51,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_51.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 52,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_52.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 53,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_53.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 54,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_54.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 55,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_55.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 56,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_56.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 57,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_57.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 58,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_58.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 59,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_59.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 60,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_60.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 61,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_61.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 62,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_62.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 63,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_63.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 64,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_64.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 65,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_65.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 66,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_66.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 67,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_67.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 68,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_68.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 69,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_69.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 70,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_70.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 71,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_71.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 72,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_72.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 73,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_73.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 74,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_74.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 75,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_75.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 76,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_76.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 77,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_77.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 78,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_78.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 79,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_79.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 80,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_80.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 81,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_81.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 82,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_82.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 83,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_83.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 84,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_84.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 85,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_85.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 86,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_86.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 87,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_87.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 88,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_88.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 89,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_89.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 90,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_90.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 91,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_91.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 92,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_92.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 93,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_93.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 94,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_94.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 95,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_95.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 96,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_96.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 97,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_97.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 98,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_98.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 99,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_99.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 100,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_100.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 101,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_101.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 102,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_102.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 103,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_103.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 104,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_104.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 105,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_105.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 106,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_106.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 107,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_107.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 108,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_108.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 109,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_109.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 110,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_110.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 111,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_111.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 112,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_112.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 113,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_113.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 114,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_114.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 115,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_115.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 116,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_116.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 117,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_117.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 118,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_118.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 119,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_119.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 120,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_120.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    },
+    {
+      "index": 121,
+      "image_path": "/workspace/app/frontend/اللائحة التنفيذية لنظام العمل وملحقاتها_compressed_compressed (1)_assets/img_121.png",
+      "caption": "",
+      "ocr_result": "",
+      "ocr_status": "skipped_limit_exceeded",
+      "message": "Skipped because DocumentExtractor OCR only processes the first 20 extracted images. Use ImageAnalyzer.analyze_images directly for this image if needed."
+    }
+  ],
+  "warnings": [
+    "OCR only processed the first 20 extracted images; 102 image(s) were skipped. Use ImageAnalyzer.analyze_images for the remaining image_path values if needed."
+  ]
+}

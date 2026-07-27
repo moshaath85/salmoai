@@ -1,0 +1,42 @@
+{
+    "title": "packages",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "name": {
+            "type": "string",
+            "description": "Package name"
+        },
+        "price": {
+            "type": "number",
+            "description": "Package price in SAR"
+        },
+        "billing_cycle": {
+            "type": "string",
+            "description": "Billing cycle: monthly, yearly"
+        },
+        "max_users": {
+            "type": "integer",
+            "description": "Maximum number of users allowed"
+        },
+        "features": {
+            "type": "string",
+            "description": "JSON array of features as text"
+        },
+        "status": {
+            "type": "string",
+            "description": "Package status: active, inactive",
+            "default": "active"
+        }
+    },
+    "required": [
+        "id",
+        "name",
+        "price",
+        "billing_cycle",
+        "max_users"
+    ]
+}

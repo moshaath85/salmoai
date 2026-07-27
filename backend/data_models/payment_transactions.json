@@ -1,0 +1,76 @@
+{
+    "title": "payment_transactions",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User ID"
+        },
+        "plan_id": {
+            "type": "integer",
+            "description": "Plan ID"
+        },
+        "plan_name": {
+            "type": "string",
+            "description": "Plan name at time of transaction"
+        },
+        "amount": {
+            "type": "number",
+            "description": "Amount in SAR"
+        },
+        "currency": {
+            "type": "string",
+            "description": "Currency code, default SAR"
+        },
+        "status": {
+            "type": "string",
+            "description": "Transaction status: success, pending, failed, refunded"
+        },
+        "payment_method": {
+            "type": "string",
+            "description": "Payment method: creditcard, mada, applepay, stcpay"
+        },
+        "payment_gateway": {
+            "type": "string",
+            "description": "Gateway used: moyasar"
+        },
+        "gateway_payment_id": {
+            "type": "string",
+            "description": "External payment ID from gateway"
+        },
+        "billing_cycle": {
+            "type": "string",
+            "description": "Billing cycle: monthly, yearly, lifetime"
+        },
+        "invoice_number": {
+            "type": "string",
+            "description": "Generated invoice number"
+        },
+        "description": {
+            "type": "string",
+            "description": "Transaction description"
+        },
+        "failure_reason": {
+            "type": "string",
+            "description": "Reason for failure if applicable"
+        },
+        "refund_amount": {
+            "type": "number",
+            "description": "Refund amount if refunded"
+        },
+        "is_renewal": {
+            "type": "boolean",
+            "description": "Whether this is an auto-renewal transaction"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "amount",
+        "status"
+    ]
+}

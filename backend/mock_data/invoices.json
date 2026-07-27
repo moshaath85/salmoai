@@ -1,0 +1,58 @@
+[
+    {
+        "invoice_number": "INV-2025-001",
+        "customer_name": "أحمد محمد العتيبي",
+        "plan": "احترافي",
+        "amount": 299,
+        "date": "2025-05-01",
+        "status": "paid"
+    },
+    {
+        "invoice_number": "INV-2025-002",
+        "customer_name": "سارة خالد الشمري",
+        "plan": "أساسي",
+        "amount": 99,
+        "date": "2025-05-01",
+        "status": "paid"
+    },
+    {
+        "invoice_number": "INV-2025-003",
+        "customer_name": "محمد عبدالله القحطاني",
+        "plan": "مؤسسي",
+        "amount": 499,
+        "date": "2025-05-01",
+        "status": "pending"
+    },
+    {
+        "invoice_number": "INV-2025-004",
+        "customer_name": "فاطمة أحمد الدوسري",
+        "plan": "احترافي",
+        "amount": 299,
+        "date": "2025-04-01",
+        "status": "overdue"
+    },
+    {
+        "invoice_number": "INV-2025-005",
+        "customer_name": "عبدالرحمن الغامدي",
+        "plan": "مؤسسي",
+        "amount": 499,
+        "date": "2025-05-01",
+        "status": "paid"
+    },
+    {
+        "invoice_number": "INV-2025-006",
+        "customer_name": "نورة سعد المالكي",
+        "plan": "احترافي",
+        "amount": 299,
+        "date": "2025-05-01",
+        "status": "paid"
+    },
+    {
+        "invoice_number": "INV-2025-007",
+        "customer_name": "خالد العمري",
+        "plan": "أساسي",
+        "amount": 99,
+        "date": "2025-04-28",
+        "status": "pending"
+    }
+]

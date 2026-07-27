@@ -1,0 +1,50 @@
+2026-06-23 05:45:39,725 - main - INFO - === Logging system initialized ===
+2026-06-23 05:45:39,725 - main - INFO - Log file: logs/app_20260623_054539.log
+2026-06-23 05:45:39,725 - main - INFO - Log level: INFO
+2026-06-23 05:45:39,725 - main - INFO - Timestamp: 20260623_054539
+2026-06-23 05:45:39,826 - main - INFO - Included router: routers.activity_logs.router
+2026-06-23 05:45:39,861 - main - INFO - Included router: routers.admin_users.router
+2026-06-23 05:45:40,644 - main - INFO - Included router: routers.aihub.router
+2026-06-23 05:45:40,657 - main - INFO - Included router: routers.auth.router
+2026-06-23 05:45:40,702 - main - INFO - Included router: routers.chat_messages.router
+2026-06-23 05:45:40,719 - main - INFO - Included router: routers.client_register.router
+2026-06-23 05:45:40,775 - main - INFO - Included router: routers.client_subscriptions.router
+2026-06-23 05:45:40,820 - main - INFO - Included router: routers.clients.router
+2026-06-23 05:45:40,835 - main - INFO - Included router: routers.coupon_analytics.router
+2026-06-23 05:45:40,882 - main - INFO - Included router: routers.coupon_usages.router
+2026-06-23 05:45:41,054 - main - INFO - Included router: routers.coupons.router
+2026-06-23 05:45:41,107 - main - INFO - Included router: routers.customers.router
+2026-06-23 05:45:41,127 - main - INFO - Included router: routers.email_notifications.router
+2026-06-23 05:45:41,165 - main - INFO - Included router: routers.email_settings.router
+2026-06-23 05:45:41,206 - main - INFO - Included router: routers.gateway_audit_logs.router
+2026-06-23 05:45:41,213 - main - INFO - Included router: routers.gateway_test.router
+2026-06-23 05:45:41,214 - main - INFO - Included router: routers.health.router
+2026-06-23 05:45:41,257 - main - INFO - Included router: routers.invoices.router
+2026-06-23 05:45:41,276 - main - INFO - Included router: routers.moyasar_payment.router
+2026-06-23 05:45:41,312 - main - INFO - Included router: routers.notifications.router
+2026-06-23 05:45:41,342 - main - INFO - Included router: routers.ocr.router
+2026-06-23 05:45:41,385 - main - INFO - Included router: routers.packages.router
+2026-06-23 05:45:41,392 - main - INFO - Included router: routers.packages_public.router
+2026-06-23 05:45:41,441 - main - INFO - Included router: routers.payment_gateway_settings.router
+2026-06-23 05:45:41,493 - main - INFO - Included router: routers.payment_transactions.router
+2026-06-23 05:45:41,655 - main - INFO - Included router: routers.plans.router
+2026-06-23 05:45:41,678 - routers.salmo - INFO - Loaded labor law KB: 279578 chars
+2026-06-23 05:45:41,680 - routers.salmo - INFO - Loaded law articles index: 189 articles
+2026-06-23 05:45:41,682 - routers.salmo - INFO - Loaded company policy index: 73 articles (total index now 262)
+2026-06-23 05:45:41,706 - main - INFO - Included router: routers.salmo.router
+2026-06-23 05:45:41,726 - main - INFO - Included router: routers.settings.router
+2026-06-23 05:45:41,766 - main - INFO - Included router: routers.site_users.router
+2026-06-23 05:45:41,803 - main - INFO - Included router: routers.storage.router
+2026-06-23 05:45:41,851 - main - INFO - Included router: routers.subscriptions.router
+2026-06-23 05:45:41,893 - main - INFO - Included router: routers.ticket_messages.router
+2026-06-23 05:45:41,943 - main - INFO - Included router: routers.tickets.router
+2026-06-23 05:45:41,960 - main - INFO - Included router: routers.user.router
+2026-06-23 05:45:42,010 - main - INFO - Included router: routers.user_daily_quota.router
+2026-06-23 05:45:42,098 - main - INFO - Included router: routers.user_subscriptions.router
+2026-06-23 05:45:42,137 - main - INFO - Included router: routers.webhook_events.router
+2026-06-23 05:45:42,139 - main - INFO - === Application startup initiated ===
+2026-06-23 05:45:42,139 - services.database - INFO - Ignore creating tables
+2026-06-23 05:45:42,139 - services.mock_data - INFO - Ignore initialize data
+2026-06-23 05:45:42,140 - services.auth - INFO - Ignore initialize admin
+2026-06-23 05:45:42,140 - main - INFO - === Application startup completed successfully ===
+2026-06-23 06:04:50,714 - services.database - INFO - Database connections closed

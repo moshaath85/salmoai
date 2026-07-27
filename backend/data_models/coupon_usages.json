@@ -1,0 +1,56 @@
+{
+    "title": "coupon_usages",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "coupon_id": {
+            "type": "integer",
+            "description": "Reference to coupon"
+        },
+        "coupon_code": {
+            "type": "string",
+            "description": "Coupon code used"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User who used the coupon"
+        },
+        "plan_id": {
+            "type": "integer",
+            "description": "Plan the coupon was applied to"
+        },
+        "billing_cycle": {
+            "type": "string",
+            "description": "Billing cycle when applied"
+        },
+        "original_amount": {
+            "type": "number",
+            "description": "Original amount before discount"
+        },
+        "discount_amount": {
+            "type": "number",
+            "description": "Discount amount applied"
+        },
+        "final_amount": {
+            "type": "number",
+            "description": "Final amount after discount"
+        },
+        "applied_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the coupon was applied"
+        }
+    },
+    "required": [
+        "id",
+        "coupon_id",
+        "coupon_code",
+        "user_id",
+        "original_amount",
+        "discount_amount",
+        "final_amount"
+    ]
+}

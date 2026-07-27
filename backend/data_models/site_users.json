@@ -1,0 +1,49 @@
+{
+    "title": "site_users",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "username": {
+            "type": "string",
+            "description": "Unique username for login"
+        },
+        "email": {
+            "type": "string",
+            "description": "User email address"
+        },
+        "password_hash": {
+            "type": "string",
+            "description": "Bcrypt hashed password"
+        },
+        "name": {
+            "type": "string",
+            "description": "Display name"
+        },
+        "role": {
+            "type": "string",
+            "description": "User role: admin or user"
+        },
+        "customer_id": {
+            "type": "integer",
+            "description": "Linked customer ID from customers table"
+        },
+        "is_active": {
+            "type": "boolean",
+            "description": "Whether the user account is active"
+        },
+        "last_login": {
+            "type": "string",
+            "description": "Last login timestamp"
+        }
+    },
+    "required": [
+        "id",
+        "username",
+        "email",
+        "password_hash",
+        "role"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "title": "user_subscriptions",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User ID from auth"
+        },
+        "plan_id": {
+            "type": "integer",
+            "description": "Reference to plans table"
+        },
+        "status": {
+            "type": "string",
+            "description": "Subscription status: active, cancelled, expired, trial"
+        },
+        "billing_cycle": {
+            "type": "string",
+            "description": "Current billing cycle: monthly, yearly, lifetime"
+        },
+        "start_date": {
+            "type": "string",
+            "description": "Subscription start date"
+        },
+        "end_date": {
+            "type": "string",
+            "description": "Subscription end date"
+        },
+        "auto_renew": {
+            "type": "boolean",
+            "description": "Whether auto-renewal is enabled"
+        },
+        "payment_method": {
+            "type": "string",
+            "description": "Payment method used"
+        },
+        "amount_paid": {
+            "type": "number",
+            "description": "Amount paid for current period"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "plan_id",
+        "status"
+    ]
+}

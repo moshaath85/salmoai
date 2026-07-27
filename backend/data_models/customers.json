@@ -1,0 +1,47 @@
+{
+    "title": "customers",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "name": {
+            "type": "string",
+            "description": "Customer name"
+        },
+        "email": {
+            "type": "string",
+            "description": "Customer email"
+        },
+        "phone": {
+            "type": "string",
+            "description": "Customer phone number"
+        },
+        "plan": {
+            "type": "string",
+            "description": "Subscription plan name"
+        },
+        "status": {
+            "type": "string",
+            "description": "Customer status: active, suspended, trial, expired"
+        },
+        "payment_status": {
+            "type": "string",
+            "description": "Payment status: paid, pending, overdue"
+        },
+        "registered_at": {
+            "type": "string",
+            "description": "Registration date"
+        },
+        "last_active": {
+            "type": "string",
+            "description": "Last active date"
+        }
+    },
+    "required": [
+        "id",
+        "name",
+        "email"
+    ]
+}

@@ -1,0 +1,115 @@
+{
+  "file_path": "/workspace/uploads/work_system 1 (1)S.docx",
+  "markdown_path": "/workspace/app/frontend/work_system 1 (1)S.md",
+  "ocr_enabled": true,
+  "ocr_limit": 20,
+  "image_count": 13,
+  "ocr_processed_count": 13,
+  "ocr_skipped_count": 0,
+  "images": [
+    {
+      "index": 0,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_0.png",
+      "caption": "",
+      "ocr_result": "الموارد البشرية\nوالتنمية الاجتماعية",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 1,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_1.png",
+      "caption": "",
+      "ocr_result": "The provided image does not contain any text to extract.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 2,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_2.png",
+      "caption": "",
+      "ocr_result": "The provided image contains an abstract design with various colored shapes but does not contain any legible text to extract.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 3,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_3.png",
+      "caption": "",
+      "ocr_result": "There is no text visible in this image to extract. It consists of abstract, overlapping colored shapes.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 4,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_4.png",
+      "caption": "",
+      "ocr_result": "There is no text visible in the provided image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 5,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_5.png",
+      "caption": "",
+      "ocr_result": "There is no clearly legible text in the image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 6,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_6.png",
+      "caption": "",
+      "ocr_result": "No clearly legible text was found in the image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 7,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_7.png",
+      "caption": "",
+      "ocr_result": "There is no clearly legible text in the image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 8,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_8.png",
+      "caption": "",
+      "ocr_result": "No text was found in the image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 9,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_9.png",
+      "caption": "",
+      "ocr_result": "The provided image does not contain any legible text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 10,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_10.png",
+      "caption": "",
+      "ocr_result": "The provided image does not contain any legible text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 11,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_11.png",
+      "caption": "",
+      "ocr_result": "Based on the image provided, there is no clearly legible text to extract. It consists entirely of an abstract graphic design with overlapping curved shapes in orange, teal, green, and dark blue.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 12,
+      "image_path": "/workspace/app/frontend/work_system 1 (1)S_assets/img_12.png",
+      "caption": "",
+      "ocr_result": "The provided image does not contain any text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    }
+  ]
+}

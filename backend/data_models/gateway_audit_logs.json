@@ -1,0 +1,44 @@
+{
+    "title": "gateway_audit_logs",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User who made the change"
+        },
+        "gateway_name": {
+            "type": "string",
+            "description": "Which gateway was modified"
+        },
+        "action": {
+            "type": "string",
+            "description": "Action type: update_keys, test_connection, toggle_active, change_environment"
+        },
+        "details": {
+            "type": "string",
+            "description": "JSON details of the change"
+        },
+        "ip_address": {
+            "type": "string",
+            "description": "IP address of the user"
+        },
+        "connection_status_before": {
+            "type": "string",
+            "description": "Status before change"
+        },
+        "connection_status_after": {
+            "type": "string",
+            "description": "Status after change"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "gateway_name",
+        "action"
+    ]
+}

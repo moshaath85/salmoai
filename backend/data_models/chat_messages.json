@@ -1,0 +1,33 @@
+{
+    "title": "chat_messages",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User ID"
+        },
+        "role": {
+            "type": "string",
+            "description": "Message role (user/assistant/system)"
+        },
+        "content": {
+            "type": "string",
+            "description": "Message content"
+        },
+        "session_id": {
+            "type": "string",
+            "description": "Session identifier",
+            "default": "default"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "role",
+        "content"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "activity_logs",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "user_id": {
+            "type": "string",
+            "description": "User ID"
+        },
+        "action": {
+            "type": "string",
+            "description": "Action performed"
+        },
+        "details": {
+            "type": "string",
+            "description": "Action details"
+        },
+        "ip_address": {
+            "type": "string",
+            "description": "IP address"
+        },
+        "user_agent": {
+            "type": "string",
+            "description": "User agent string"
+        },
+        "module": {
+            "type": "string",
+            "description": "Module name"
+        }
+    },
+    "required": [
+        "id",
+        "user_id",
+        "action"
+    ]
+}

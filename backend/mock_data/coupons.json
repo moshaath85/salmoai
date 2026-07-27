@@ -1,0 +1,38 @@
+[
+    {
+        "code": "WELCOME50",
+        "discount": "50%",
+        "discount_type": "percentage",
+        "usage_count": 12,
+        "max_uses": 100,
+        "expires_at": "2025-06-30",
+        "is_active": true
+    },
+    {
+        "code": "TRIAL7",
+        "discount": "7 أيام مجاناً",
+        "discount_type": "trial",
+        "usage_count": 34,
+        "max_uses": 200,
+        "expires_at": "2025-12-31",
+        "is_active": true
+    },
+    {
+        "code": "SAVE100",
+        "discount": "100 ريال",
+        "discount_type": "fixed",
+        "usage_count": 5,
+        "max_uses": 50,
+        "expires_at": "2025-07-15",
+        "is_active": true
+    },
+    {
+        "code": "EXPIRED20",
+        "discount": "20%",
+        "discount_type": "percentage",
+        "usage_count": 45,
+        "max_uses": 50,
+        "expires_at": "2025-03-01",
+        "is_active": false
+    }
+]
